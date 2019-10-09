@@ -16,10 +16,10 @@
  What is the result?
  */
 // Type the code below this line
-
+//var myName: String
+//print(myName)
 
 /*:
- 
  The debug area appeared at the bottom of your playground.
  
  Did you see output similar to the following?
@@ -37,8 +37,9 @@
  ![declare-optional](declare-optional.png)
  
  */
-// Type the second code example below...
-
+// Type the second code example below
+var yourName: String?
+print(yourName)
 
 /*:
  
